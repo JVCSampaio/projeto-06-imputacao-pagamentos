@@ -1,3 +1,5 @@
+> **Estudo concluído.** Este repositório faz parte de uma série de seis estudos baseados em livro. Consulte o [índice da série](https://github.com/JVCSampaio/data-science-projects) e o [portfólio](https://github.com/JVCSampaio) para os projetos em destaque.
+
 # Projeto 6 — Imputação de Valores Ausentes (PAY_1)
 
 Comparação de estratégias de imputação para o valor ausente de `PAY_1` (pagamento do mês anterior), com validação cruzada e varredura de threshold de classificação.
